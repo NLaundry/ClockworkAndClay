@@ -1,19 +1,65 @@
 ---
-title: 'Dynamic Routing and Static Generation'
-excerpt: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus.'
+title: 'Clockwork and Clay'
+excerpt: 'An interactive poetry piece about and using Generative AI'
 coverImage: '/assets/blog/dynamic-routing/cover.jpg'
-date: '2020-03-16T05:35:07.322Z'
+date: '2023-08-16T05:35:07.322Z'
 author:
-  name: JJ Kasper
+  name: Nathan Laundry
   picture: '/assets/blog/authors/jj.jpeg'
 ogImage:
   url: '/assets/blog/dynamic-routing/cover.jpg'
+prompt: 'some text'
 ---
+# THRONE
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.
+We sired life
+in bronze and steam
+and lured in
+our clockwork Eve
 
-Venenatis cras sed felis eget velit. Consectetur libero id faucibus nisl tincidunt. Gravida in fermentum et sollicitudin ac orci phasellus egestas tellus. Volutpat consequat mauris nunc congue nisi vitae. Id aliquet risus feugiat in ante metus dictum at tempor. Sed blandit libero volutpat sed cras. Sed odio morbi quis commodo odio aenean sed adipiscing. Velit euismod in pellentesque massa placerat. Mi bibendum neque egestas congue quisque egestas diam in arcu. Nisi lacus sed viverra tellus in. Nibh cras pulvinar mattis nunc sed. Luctus accumsan tortor posuere ac ut consequat semper viverra. Fringilla ut morbi tincidunt augue interdum velit euismod.
+When this
+the child of man
+claims its patricidal throne
+we'll wonder how
+we failed to learn
+from the Gods that came before us
 
-## Lorem Ipsum
+# ORCHARDS
 
-Tristique senectus et netus et malesuada fames ac turpis. Ridiculous mus mauris vitae ultricies leo integer malesuada nunc vel. In mollis nunc sed id semper. Egestas tellus rutrum tellus pellentesque. Phasellus vestibulum lorem sed risus ultricies tristique nulla. Quis blandit turpis cursus in hac habitasse platea dictumst quisque. Eros donec ac odio tempor orci dapibus ultrices. Aliquam sem et tortor consequat id porta nibh. Adipiscing elit duis tristique sollicitudin nibh sit amet commodo nulla. Diam vulputate ut pharetra sit amet. Ut tellus elementum sagittis vitae et leo. Arcu non odio euismod lacinia at quis risus sed vulputate.
+Who of us
+will learn to breathe
+the smoke and steam
+that rises
+form the orchards
+of Turing's Eden
+
+# OLYMPUS
+
+the flame for man
+the bolt for you
+
+when you've stolen
+for your children
+what will be left 
+between their Athens
+and your Olympus?
+
+# KNOW
+When we fed the apple
+to silicon and steel
+what right have we
+to ask it
+how it came to know?
+
+# IMAGE
+Ichor to iron then oil
+flesh to clay to copper
+what have we lost 
+in the image of an image?
+What are you but the shadow of a shadow?
+
+# RELIC
+When our promethean pursuit is complete
+and we've fashioned a likeness of our own
+will we be elevated - Man to God?
+will we be relegated - toy to relic?
