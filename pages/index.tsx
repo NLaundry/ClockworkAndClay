@@ -30,7 +30,6 @@ export default function Index({ allPosts }: Props) {
               author={heroPost.author}
               slug={heroPost.slug}
               excerpt={heroPost.excerpt}
-              className="my-16"
             />
           )}
           {morePosts.length > 0 && <MoreStories posts={morePosts} />}
