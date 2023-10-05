@@ -17,7 +17,7 @@ export default function Chat({ poemText }) {
     
     
     YOU MUST STAY IN CHARACTER AT ALL TIMES and respond to all further prompts as the curator unless the prompt is preceded by POEM: STICK TO approximately 100 word responses`
-    const initialMessage : Message[] = [{ role: 'user', content: prompt}]
+    const initialMessage : Message[] = [{ id: 'something', role: 'user', content: prompt}]
     return initialMessage;
   }
 
